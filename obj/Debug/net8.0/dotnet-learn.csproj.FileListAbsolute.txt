@@ -1,0 +1,15 @@
+D:\dotnet-learn\bin\Debug\net8.0\dotnet-learn.exe
+D:\dotnet-learn\bin\Debug\net8.0\dotnet-learn.deps.json
+D:\dotnet-learn\bin\Debug\net8.0\dotnet-learn.runtimeconfig.json
+D:\dotnet-learn\bin\Debug\net8.0\dotnet-learn.dll
+D:\dotnet-learn\bin\Debug\net8.0\dotnet-learn.pdb
+D:\dotnet-learn\obj\Debug\net8.0\dotnet-learn.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet-learn\obj\Debug\net8.0\dotnet-learn.AssemblyInfoInputs.cache
+D:\dotnet-learn\obj\Debug\net8.0\dotnet-learn.AssemblyInfo.cs
+D:\dotnet-learn\obj\Debug\net8.0\dotnet-learn.csproj.CoreCompileInputs.cache
+D:\dotnet-learn\obj\Debug\net8.0\dotnet-learn.sourcelink.json
+D:\dotnet-learn\obj\Debug\net8.0\dotnet-learn.dll
+D:\dotnet-learn\obj\Debug\net8.0\refint\dotnet-learn.dll
+D:\dotnet-learn\obj\Debug\net8.0\dotnet-learn.pdb
+D:\dotnet-learn\obj\Debug\net8.0\dotnet-learn.genruntimeconfig.cache
+D:\dotnet-learn\obj\Debug\net8.0\ref\dotnet-learn.dll
